@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Labtask1">
         <activity
+            android:name=".signupactivity"
+            android:exported="false" />
+        <activity
             android:name=".loginactivity"
             android:exported="false" />
         <activity
